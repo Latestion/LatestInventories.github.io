@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #2b2727;
+}
+
+.inventory img{
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+}
